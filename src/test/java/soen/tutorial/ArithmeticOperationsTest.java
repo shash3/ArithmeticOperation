@@ -10,6 +10,7 @@ public class ArithmeticOperationsTest {
 	@Test
 	public void testAdd()
 	{
+		hello
 
 		ArithmeticOperations operations = new ArithmeticOperations();
 		Integer actual = operations.addOrSub(2, 6);
